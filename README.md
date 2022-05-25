@@ -12,6 +12,7 @@ Secara sederhana, ketika sebuah event terjadi (cth. order makanan via aplikasi o
 
 ## Installation
 - Pastikan sudah menginstall Go dan docker terlebih dahulu.
+- Copy `.env.example` dan rename menjadi `.env`
 - Jalankan `docker compose up -d`, tunggu hingga proses pulling image dan building container selesai.
 - Jalankan `make start`
 
